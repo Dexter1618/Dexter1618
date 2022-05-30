@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debayan Das</h1>
-<h3 align="center">A dedicated R&D focused Data Scientist from India working for a leading MedTech startup based out of London</h3>
+<h3 align="center">A R&D focused Data Scientist from India working for a leading MedTech startup based out of London</h3>
 
-- 🌱 I’m currently learning **Azure Kubernetes, Azure Functions and Quantum Computing**
+- 🌱 I’m currently learning **Project and Stakeholder Management in Data Science deliverables**
 
 - 👨‍💻 All of my projects are available at [http://dexter1618.github.io/](http://dexter1618.github.io/)
 
